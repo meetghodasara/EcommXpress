@@ -1,0 +1,2 @@
+I want to be specialist nodejs backend engineer explain each concepts along with that 
+Explain each function in detail manner and what the inbuilt function do and overall structures. Each line and purpose of that line
